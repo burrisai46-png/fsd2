@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DearFSD – Full Stack Development Lab
 
 A collection of practical experiments and applications developed as part of the Full Stack Development Lab.
@@ -240,3 +241,6 @@ Refer to each application's package.json for its available scripts.
 * **Repository:** [https://github.com/Mahe13185/DearFSD](https://github.com/Mahe13185/DearFSD)
 
 ⭐ **If you found this repository or automated deployment useful, please star the repo and follow me on [GitHub](https://github.com/Mahe13185) & [LinkedIn](https://www.linkedin.com/in/mahendragampala)!**
+=======
+# fsd2
+>>>>>>> b1e8c32a6928b8884f8c86a0119bb49b1bf605d5
